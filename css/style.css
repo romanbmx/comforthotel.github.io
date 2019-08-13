@@ -1,0 +1,288 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+header{
+	width: 1500px;
+	height: 600px;
+	background-image: url("../img/bg.jpg");
+	background-size: 1500px 600px;
+}
+.namesite{
+	width: 300px;
+	height: 100px;
+	background-color: #AF4035;
+	text-align: center;
+	margin-left: 600px;
+	padding-top: 40px;
+	font-family: miriam;
+	font-size: 20px;
+	color: white;
+}
+.namesite img{
+	width: 10px;
+	height: 10px;
+}
+#headsentence{
+	font-size: 40px;
+	color: white;
+	text-align: center;
+	font-family: arial;
+	margin-top: 80px;
+}
+.sentence{
+	width: 600px;
+	height: 30px;
+	background-color: #AF4035;
+	padding-top: 10px;
+	margin-left: 450px;
+	opacity: 0.6;
+}
+#sentence1{
+	font-family: arial;
+	color: white;
+	text-align: center;
+	opacity: 0.9;
+}
+.header{
+	width: 1500px;
+	height: 120px;
+	background-color: #AF4035;
+	margin-top: 175px;
+}
+.button1:hover{
+	border-top: solid 5px;
+	border-color: yellow;
+	text-decoration: underline;
+}
+.button2:hover{
+	border-top: solid 5px;
+	border-color: yellow;
+	text-decoration: underline;
+}
+.button3:hover{
+	border-top: solid 5px;
+	border-color: yellow;
+	text-decoration: underline;
+}
+.button4:hover{
+	border-top: solid 5px;
+	border-color: yellow;
+	text-decoration: underline;
+}
+.button5:hover{
+	border-top: solid 5px;
+	border-color: yellow;
+	text-decoration: underline;
+}
+.button1{
+	width: 200px;
+	height: 120px;
+	float: left;
+	margin-left: 250px;
+	background-color: #AF4035;
+	color: white;
+	font-size: 15px;
+	font-family: arial;
+	border: none;
+}
+.button2{
+	width: 200px;
+	height: 120px;
+	float: left;
+	background-color: #AF4035;
+	color: white;
+	font-size: 15px;
+	font-family: arial;
+	border: none;
+}
+.button3{
+	width: 200px;
+	height: 120px;
+	float: left;
+	background-color: #AF4035;
+	color: white;
+	font-size: 15px;
+	font-family: arial;
+	border: none;
+}
+.button4{
+	width: 200px;
+	height: 120px;
+	float: left;
+	background-color: #AF4035;
+	color: white;
+	font-size: 15px;
+	font-family: arial;
+	border: none;
+}
+.button5{
+	width: 200px;
+	height: 120px;
+	float: left;
+	background-color: #AF4035;
+	color: white;
+	font-size: 15px;
+	font-family: arial;
+	border: none;
+}
+content{
+	width: 1500px;
+	height: 400px;
+	background-color: white;
+	float: left;
+}
+.design{
+	width: 334px;
+	height: 400px;
+	margin-left: 219px;
+	float: left;
+	text-align: center;
+	font-family: arial;
+	margin-right: 30px;
+}
+.verstka{
+	width: 334px;
+	height: 400px;
+	float: left;
+	text-align: center;
+	font-family: arial;
+    margin-right: 30px;
+}
+.frontend{
+	width: 334px;
+	height: 400px;
+	float: left;
+	text-align: center;
+	font-family: arial;
+}
+#cup{
+	width: 50px;
+	height: 50px;
+	text-align: center;
+	margin-top: 60px;
+	margin-bottom: 15px;
+}
+#laptop{
+	width: 50px;
+	height: 50px;
+	text-align: center;
+	margin-top: 60px;
+	margin-bottom: 15px;
+}
+#box{
+	width: 50px;
+	height: 50px;
+	text-align: center;
+	margin-top: 60px;
+	margin-bottom: 15px;
+}
+.description{
+	color: gray;
+}
+.contenthead{
+	font-size: 30px;
+	font-family: arial;
+	margin-bottom: 15px;
+}
+content button{
+	width: 120px;
+	height: 40px;
+	margin-top: 20px;
+	border-radius: 10px;
+	background-color: #FFBF00;
+	border: none;
+}
+footer{
+	width: 1500px;
+	height: 500px;
+	background-color: #AF4035;
+	float: left;
+}
+#hrtop{
+	background-color: #800000;
+	color: #800000;
+	border: none;
+	height: 20px;
+}
+#hrbottom{
+	background-color: #800000;
+	color: #800000;
+	border: none;
+	height: 20px;
+	margin-top: 50px;
+}
+#footername{
+	font-size: 30px;
+	font-family: arial;
+	color: white;
+	margin-top: 40px;
+	text-align: center;
+}
+#footersentence{
+	color: white;
+	text-align: center;
+	font-family: arial;
+	margin-top: 25px;
+	margin-bottom: 25px;
+}
+.footer1{
+	width: 330px;
+	height: 170px;
+	float: left;
+	background-image: url("../img/room1.jpg");
+	background-size: 330px 170px;
+	margin-right: 30px;
+	margin-left: 225px;
+}
+.footer2{
+	width: 330px;
+	height: 170px;
+	float: left;
+	background-image: url("../img/room2.png");
+	background-size: 330px 170px;
+	margin-right: 30px;
+}
+.footer3{
+	width: 330px;
+	height: 170px;
+	float: left;
+	background-image: url("../img/room3.jpg");
+	background-size: 330px 170px;
+}
+.namenumber{
+	width: 160px;
+	height: 35px;
+	background-color: #FFBF00;
+	text-align: center;
+	font-family: arial;
+	padding-top: 15px;
+	margin-top: 120px;
+	margin-left: 20px;
+	opacity: 0.6;
+}
+#seeall{
+	width: 150px;
+	height: 50px;
+	border: solid white 2px;
+	color: white;
+	background-color: #AF4035;
+	float: left;
+	font-family: arial;
+	margin-left: 675px;
+	margin-top: 25px;
+}
+
+.copyright{
+	width: 1500px;
+	height: 70px;
+	background-color: #CADABA;
+}
+
+#copyright{
+	font-size: 1.1em;
+	font-weight: bold;
+	font-style: italic;
+	margin-left: 15%;
+	padding-top: 1%;
+}
